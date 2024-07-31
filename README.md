@@ -11,9 +11,6 @@ But, Data.gov datasets aren’t created equally.
 
 So, how do we make data.gov more accessible for people and the AI tools they might use? 
 
-
-
-
 ## Features
 
 Our answer–
@@ -23,15 +20,3 @@ Our answer–
   - Does the dataset have a data dictionary?
   - Does the dataset have structured data?
   - Is the dataset a link to an external site?
-
-## Installation
-
-- See the [requirements.txt file](https://github.com/MickinSahni/ink-and-toner-47/blob/main/requirements.txt)
-
-## Usage
-
-In this section, you can describe how to use the solution.
-
-## Examples
-
-In this section, you can provide practical examples of how one would use the solution.
