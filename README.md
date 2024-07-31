@@ -26,7 +26,7 @@ Our answer–
 
 ## Installation
 
-In this section, you can describe how to get started with your solution. This could include configuring the environment and your solution, installing prerequisites, etc.
+- See the [requirements.txt file](https://github.com/MickinSahni/ink-and-toner-47/blob/main/requirements.txt)
 
 ## Usage
 
