@@ -2,11 +2,28 @@
 
 ## Introduction
 
-Improve query-dataset matching & 2. Develop a scale to measure the AI friendliness of Data.gov datasets
+What’s possible with Data.gov datasets? 
+- “How many EVs were sold in Illinois last month?”
+- “What were the winning Powerball numbers in New York last year?”
+- “What progress have we made in reducing lead in public school drinking water?”
+
+But, Data.gov datasets aren’t created equally. 
+
+So, how do we make data.gov more accessible for people and the AI tools they might use? 
+
+Our answer–
+1. Improve query-dataset matching and
+2. develop scale to measure the AI-friendliness of Data.gov datasets.
+
 
 ## Features
 
-In this section, you can describe the features your solution has.
+
+What does “AI-friendly” even mean? We tested sample datasets against GPT-4o, Command R+, etc. We developed a scale for how we assess this friendliness:
+Does the dataset have a data dictionary?
+Does the dataset have structured data?
+Does the dataset contain structured data? 
+Is the dataset a link to an external site?
 
 ## Installation
 
