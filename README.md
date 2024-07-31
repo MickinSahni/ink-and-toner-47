@@ -11,19 +11,18 @@ But, Data.gov datasets aren’t created equally.
 
 So, how do we make data.gov more accessible for people and the AI tools they might use? 
 
-Our answer–
-1. Improve query-dataset matching and
-2. develop scale to measure the AI-friendliness of Data.gov datasets.
+
 
 
 ## Features
 
-
-What does “AI-friendly” even mean? We tested sample datasets against GPT-4o, Command R+, etc. We developed a scale for how we assess this friendliness:
-Does the dataset have a data dictionary?
-Does the dataset have structured data?
-Does the dataset contain structured data? 
-Is the dataset a link to an external site?
+Our answer–
+1. Improve query-dataset matching and
+2. develop scale to measure the AI-friendliness of Data.gov datasets.
+  - What does “AI-friendly” even mean? We tested sample datasets against GPT-4o, Command R+, etc. We developed a scale for how we assess this friendliness:
+  - Does the dataset have a data dictionary?
+  - Does the dataset have structured data?
+  - Is the dataset a link to an external site?
 
 ## Installation
 
